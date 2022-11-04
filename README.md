@@ -75,3 +75,10 @@ R.M.R.D. => 1.0.0 04-11-2022
 
 - Diseño del portafolio de evidencias terminado
 
+R.M.R.D. => 1.0.1 04-11-2022
+
+- Correccion en el video de muentra del Cover.
+- Aplicacion de tecnologias AWS.
+- Portafolio subido a un servidor de la nube usando AWS Amplify
+- Aplicacion de buckets en s3 AWS para importar un video para el Cover.
+
