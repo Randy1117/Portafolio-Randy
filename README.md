@@ -85,3 +85,8 @@ R.M.R.D. => 1.0.1 04-11-2022
 R.M.R.D. => 1.0.2 04-11-2022
 
 - Correcion en el bucket, nuevo URL establecido en el video para el Cover.
+
+R.M.R.D. => 1.0.3 07-11-2022
+
+- Asigne nuevos logos de mis habilidades.
+- Asigne un enlace a mi CV por PDF

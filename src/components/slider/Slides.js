@@ -1,4 +1,6 @@
 import React from "react";
+import '@brainhubeu/react-carousel/lib/style.css';
+
 import capacitacion from "../../media/projects/capacitacion/capacitacion1.jpg";
 import mergaservicio from "../../media/projects/megaservicio/megaservicio1.jpg";
 import educativo from "../../media/projects/educativo/educacio4.jpg";
@@ -24,7 +26,7 @@ const slidesInfo = [
 
 const slides = slidesInfo.map(slide =>(
     <div className="slide-container">
-        <img src={slide.src} alt={slide.alt} />
+        <img src={slide.src} alt="Geeksforgeeks.org"  />
         <div className="slide-desc">
             <span>{slide.desc}</span> 
         </div>

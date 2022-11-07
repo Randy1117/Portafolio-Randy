@@ -13,6 +13,7 @@ const About = () => {
             de software con mi proyecto llamado "Capacitacion-Soft" el cual tambien fue el proyecto con el que me titule en la carrea de ingenieria en sistemas computacionales,
             estoy preparado para apoyar a crear soluciones con mis conocimientos e ir aumentando mi experiencia 
             con nuevos retos.</p>
+            <h4> <a href="https://drive.google.com/file/d/1vruVxcSbimYUM3Bls1z-cqAvG7OCr-8b/view?usp=sharing" >Visita mi CV!</a></h4>
       </div>
       <div className="about-img">
         <img src={mifoto} 

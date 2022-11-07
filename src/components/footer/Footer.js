@@ -14,7 +14,6 @@ const Footer = () => {
         <h4><a href="https://www.linkedin.com/in/randy-martin-renter%C3%ADa-dorantes-345474234">Visita mi perfil de LINKEDIN!</a></h4>
         <h4> <a href="https://github.com/Randy1117" >Visita mi perfil de GIT HUB!</a></h4>
         <p>Y pongámonos manos a la obra</p>
-
       </div>
       <div className="footer-sns">
         <div className="design-by">De todo ♡ Gracias por visitar mi portafolio 😄 </div>

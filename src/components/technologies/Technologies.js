@@ -7,8 +7,10 @@ import Reactjs from "../../media/icons/frontend/react.gif";
 const Info = () => {
   return (
     <div className="info-container">
+            <center>
+              <h1>Mis habilidades</h1>
+              </center>
     <div className="info">
-      <h1>Mis habilidades</h1>
       <div className="info">
       <div className="container-image">
         <img src="https://res.cloudinary.com/techstore/image/upload/v1619409801/Marcos/Portfolio/html-5_cnx89x.svg" 
@@ -19,7 +21,8 @@ const Info = () => {
         alt="" className="cntimg"/>
             <img src="https://res.cloudinary.com/techstore/image/upload/v1619411069/Marcos/Portfolio/bootstrap-4_od87ai.svg" 
         alt="" className="cntimg"/>
-      
+             <img src="https://tech.bodyfitstation.com/wp-content/uploads/2016/11/git-logo.png" 
+        alt="" className="cntimg"/>
       </div>
     </div>
     <div className="info">
@@ -32,9 +35,12 @@ const Info = () => {
         alt="" className="cntimg"/>
             <img src="https://www.icone-png.com/png/53/53389.png" 
         alt="" className="cntimg"/>
+       
+        <img src="https://www.zencos.com/wp-content/uploads/2021/11/aws-logo.png" 
+        alt="" className="cntimg"/>
         </div>
     </div>
-
+   
   
         
     </div>
